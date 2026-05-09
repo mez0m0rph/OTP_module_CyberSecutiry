@@ -1,0 +1,10 @@
+{
+    "viktor": {
+        "password_hash": "$2b$12$2UadbHNx561K/kwNTzy4QOu7rB4eekkbn8aWu1XLwcYQpSu/KiQ7C",
+        "totp_secret": "RMIRH3RKTK3FFAAXZBHCGXH7SAG3U5FETCR4KVEIB7VLWQ5I6GSQ"
+    },
+    "testuser": {
+        "password_hash": "$2b$12$n/EYC6eLvLsNOqcQBNC.JuFewilI0G3lN5WStvmYObDS8kmRHVtea",
+        "totp_secret": "OQ7QIUCOQUOC5LYAUXG3DIKSWJZB4IDQQTPFOF3OWGMXB6XGCXDA"
+    }
+}

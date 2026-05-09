@@ -1,0 +1,5 @@
+fastapi  # для создания HTTP API
+uvicorn  # для запуска FastAPI-сервера
+bcrypt  # для хеширования паролей
+pyotp  # для генерации TOTP-кодов
+requests  # для HTTP-запросов к внешнему API
