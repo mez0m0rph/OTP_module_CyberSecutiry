@@ -1,0 +1,1 @@
+python -c "from auth import load_users; from totp_service import get_current_totp; u=load_users(); s=u['testuser']['totp_secret']; print(get_current_totp(s))"
